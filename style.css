@@ -1,0 +1,20 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+  color: gray;
+  /margin: 2em;
+  margin: 30px;
+}
+
+h1 {
+  /font-style: italic;
+  /color: #373fff;
+}
+
+button {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+}
